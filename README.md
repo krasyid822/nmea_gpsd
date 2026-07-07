@@ -1,3 +1,8 @@
+Linux:
+<img width="1278" height="752" alt="image" src="https://github.com/user-attachments/assets/130dd640-0822-4ea5-add5-a078946c74e0" />
+Android:
+<img width="434" height="935" alt="image" src="https://github.com/user-attachments/assets/56447ffb-873d-4d46-a90e-364ff6e670d2" />
+
 # nmea_gpsd
 
 A new Flutter project.
