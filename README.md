@@ -111,10 +111,12 @@ Jalankan `cgps` atau `gpsmon` di terminal Linux Anda untuk melihat data GPS yang
 ### Linux
 ```fish
 flutter build linux --release
+build/linux/x64/release/bundle/nmea_gpsd
 ```
 ### Android
 ```fish
 flutter build apk --release
+adb install build/app/outputs/flutter-apk/app-release.apk
 ```
 
 ## Catatan
